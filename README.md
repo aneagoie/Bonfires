@@ -1,1 +1,1 @@
-# Bonfires
+# Bonfires. A few javascript exercises
